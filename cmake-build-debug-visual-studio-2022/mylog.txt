@@ -1,0 +1,6 @@
+[2023-12-07 19:27:19.917] [mylogger] [info] just create a logger
+[2023-12-07 19:28:00.798] [mylogger] [warning] this should appear in both console and file
+[2023-12-07 19:28:00.799] [mylogger] [info] this message should not appear in the console, only in the file
+[2023-12-07 19:28:00.799] [mylogger] [info] just create a logger
+[2023-12-07 19:28:11.464] [mylogger] [warning] this should appear in both console and file
+[2023-12-07 19:28:11.465] [mylogger] [info] this message should not appear in the console, only in the file

@@ -1,0 +1,5 @@
+[2023-12-07 18:47:13.822] [basic_logger] [info] spdlog level info output
+[2023-12-07 18:47:13.824] [basic_logger] [warning] spdlog level warn output
+[2023-12-07 18:47:13.824] [basic_logger] [error] spdlog level error output
+[2023-12-07 18:47:13.824] [basic_logger] [warning] spdlog level warn output -2
+[2023-12-07 18:47:13.824] [basic_logger] [error] spdlog level error output -2

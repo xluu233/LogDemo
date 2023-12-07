@@ -1,0 +1,300 @@
+[2023-12-07 18:16:00.771] [basic_logger] [info] write info: 0 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 0
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 1 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 1
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 2 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 2
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 3 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 3
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 4 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 4
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 5 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 5
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 6 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 6
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 7 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 7
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 8 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 8
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 9 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 9
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 10 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 10
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 11 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 11
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 12 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 12
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 13 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 13
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 14 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 14
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 15 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 15
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 16 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 16
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 17 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 17
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 18 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 18
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 19 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 19
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 20 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 20
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 21 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 21
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 22 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 22
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 23 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 23
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 24 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 24
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 25 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 25
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 26 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 26
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 27 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 27
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 28 to file
+[2023-12-07 18:16:00.772] [basic_logger] [info] Test File Logger 28
+[2023-12-07 18:16:00.772] [basic_logger] [info] write info: 29 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 29
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 30 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 30
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 31 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 31
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 32 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 32
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 33 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 33
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 34 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 34
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 35 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 35
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 36 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 36
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 37 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 37
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 38 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 38
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 39 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 39
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 40 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 40
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 41 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 41
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 42 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 42
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 43 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 43
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 44 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 44
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 45 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 45
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 46 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 46
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 47 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 47
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 48 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 48
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 49 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 49
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 50 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 50
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 51 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 51
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 52 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 52
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 53 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 53
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 54 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 54
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 55 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 55
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 56 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 56
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 57 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 57
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 58 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 58
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 59 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 59
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 60 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 60
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 61 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 61
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 62 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 62
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 63 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 63
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 64 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 64
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 65 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 65
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 66 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 66
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 67 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 67
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 68 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 68
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 69 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 69
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 70 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 70
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 71 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 71
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 72 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 72
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 73 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 73
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 74 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 74
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 75 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 75
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 76 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 76
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 77 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 77
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 78 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 78
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 79 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 79
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 80 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 80
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 81 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 81
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 82 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 82
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 83 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 83
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 84 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 84
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 85 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 85
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 86 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 86
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 87 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 87
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 88 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 88
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 89 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 89
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 90 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 90
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 91 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 91
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 92 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 92
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 93 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 93
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 94 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 94
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 95 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 95
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 96 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 96
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 97 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 97
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 98 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 98
+[2023-12-07 18:16:00.773] [basic_logger] [info] write info: 99 to file
+[2023-12-07 18:16:00.773] [basic_logger] [info] Test File Logger 99
+[2023-12-07 18:18:00.208] [basic_logger] [info] write info: 0 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 1 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 2 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 3 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 4 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 5 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 6 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 7 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 8 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 9 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 10 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 11 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 12 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 13 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 14 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 15 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 16 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 17 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 18 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 19 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 20 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 21 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 22 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 23 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 24 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 25 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 26 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 27 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 28 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 29 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 30 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 31 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 32 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 33 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 34 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 35 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 36 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 37 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 38 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 39 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 40 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 41 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 42 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 43 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 44 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 45 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 46 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 47 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 48 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 49 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 50 to logger file
+[2023-12-07 18:18:00.209] [basic_logger] [info] write info: 51 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 52 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 53 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 54 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 55 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 56 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 57 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 58 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 59 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 60 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 61 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 62 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 63 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 64 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 65 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 66 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 67 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 68 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 69 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 70 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 71 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 72 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 73 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 74 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 75 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 76 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 77 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 78 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 79 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 80 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 81 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 82 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 83 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 84 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 85 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 86 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 87 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 88 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 89 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 90 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 91 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 92 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 93 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 94 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 95 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 96 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 97 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 98 to logger file
+[2023-12-07 18:18:00.210] [basic_logger] [info] write info: 99 to logger file

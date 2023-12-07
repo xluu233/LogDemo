@@ -1,0 +1,3 @@
+C:/Users/xlu/Desktop/LogDemo/cmake-build-debug-visual-studio-2022/CMakeFiles/LogDemo.dir
+C:/Users/xlu/Desktop/LogDemo/cmake-build-debug-visual-studio-2022/CMakeFiles/edit_cache.dir
+C:/Users/xlu/Desktop/LogDemo/cmake-build-debug-visual-studio-2022/CMakeFiles/rebuild_cache.dir
